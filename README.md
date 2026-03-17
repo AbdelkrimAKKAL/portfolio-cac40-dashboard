@@ -24,3 +24,6 @@ Dashboard interactif de suivi d'un portefeuille de 5 actions du CAC 40
 
 ## Aperçu
 ![Overview](screenshot_overview.png)
+![Performance](screenshot_performance.png)
+![Risk](screenshot_risk.png)
+![Prix](screenshot_prix.png)
